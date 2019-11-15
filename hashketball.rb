@@ -11,7 +11,7 @@ rebounds: [12,12,19,11,2],
 assists: [12,12,10,6,2],
 steals: [3,12,3,3,4],
 blocks: [1,12,1,8,11],
-slam_dunks: [1,7,15,5,1] 
+slam_dunks: [1,7,15,5,1]
 }
 
 game_hash = {
@@ -27,5 +27,3 @@ steals: [2,22,4,1,7],
 blocks: [7,15,5,1,5],
 slam_dunks: [2,10,5,0,12]
 ]
-
-  
